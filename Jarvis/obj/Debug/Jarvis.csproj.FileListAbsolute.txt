@@ -1,0 +1,6 @@
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+c:\users\imsajid12\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
